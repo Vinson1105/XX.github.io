@@ -9,6 +9,12 @@
 		]
 	},
 	"webcredentials":{ 
-        "apps":["8WFFTAN78X.com.macrovideo.a380pro","TFN6MQ6M96.com.macrovideo.a380pro","8WFFTAN78X.XX.teset","TFN6MQ6M96.XX.teset"]  
+		"apps":[],
+		"details":[
+			{
+				"appID":"TFN6MQ6M96.XX.teset",
+				"paths":["/xx/*"]
+			}
+		]
     } 
 }
