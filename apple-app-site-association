@@ -9,12 +9,6 @@
 		]
 	},
 	"webcredentials":{ 
-		"apps":[],
-		"details":[
-			{
-				"appID":"TFN6MQ6M96.XX.teset",
-				"paths":["/xx/*"]
-			}
-		]
+		"apps":["TFN6MQ6M96.XX.teset"],
     } 
 }
