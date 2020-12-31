@@ -1,0 +1,20 @@
+{
+	"applinks":{
+		"apps":[],
+		"details":[
+			{
+				"appID":"TFN6MQ6M96.XX.teset",
+				"paths":["/xx/*"]
+			}
+		]
+	},
+	"webcredentials":{ 
+		"apps":[],
+		"details":[
+			{
+				"appID":"TFN6MQ6M96.XX.teset",
+				"paths":["/xx/*"]
+			}
+		]
+    } 
+}
